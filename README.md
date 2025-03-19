@@ -1,4 +1,4 @@
-# Flight Simulation Prototype
+# Flight Simulation Algorithm Prototype
 
 This project provides a simple Python prototype for planning an aircraft's flight route over a 100×100 grid, where the goal is to cover at least 80% of the free cells using a 2×3 sensor footprint. The aircraft can only move forward, turn left, or turn right (no backward moves), and obstacles are placed randomly on the grid.
 
